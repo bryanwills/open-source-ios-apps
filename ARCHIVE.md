@@ -189,6 +189,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Dash](https://github.com/Kapeli/Dash-iOS)
 - [Delta: Math helper](https://github.com/opensourceios/Delta-iOS)
 - [Den](https://github.com/asamiller/den)
+- [Depressed](https://github.com/DerLobi/Depressed)
 - [Designer News](https://github.com/MengTo/DesignerNewsApp)
 - [DesireKeyboard](https://github.com/noppefoxwolf/DesireKeyboard)
 - [DevSwitch](https://github.com/opensourceios/DevSwitch)
